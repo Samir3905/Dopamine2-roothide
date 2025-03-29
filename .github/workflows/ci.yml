@@ -1,0 +1,1 @@
+name: CI  on: [push, pull_jobs:   build:     runs-on: ubuntu-t run: npm test
